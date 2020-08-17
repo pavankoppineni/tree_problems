@@ -9,6 +9,7 @@
     <Folder Include="Traversals\BreadthFirstSearch\PostOrderTraversal\" />
     <Folder Include="Traversals\BreadthFirstSearch\PreOrderTraversal\" />
     <Folder Include="Traversals\DepthFirstSearch\" />
+    <Folder Include="Traversals\LevelOrderTraversal\" />
   </ItemGroup>
 
 </Project>
