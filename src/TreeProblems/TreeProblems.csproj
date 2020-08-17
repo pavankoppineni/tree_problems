@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Traversals\BreadthFirstSearch\InOrderTraversal\" />
+    <Folder Include="Traversals\BreadthFirstSearch\PostOrderTraversal\" />
+    <Folder Include="Traversals\BreadthFirstSearch\PreOrderTraversal\" />
+    <Folder Include="Traversals\DepthFirstSearch\" />
+  </ItemGroup>
+
+</Project>
